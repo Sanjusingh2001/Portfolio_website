@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing Sanjana Singh's skills, experience, projects, and professional journey in software development.
 
-![Portfolio Preview](portfolio/assets/img/portfolio_sample.png)
+![Portfolio Preview](assets/img/portfolio_sample.png)
 
 ## ✨ Features
 
@@ -82,7 +82,7 @@ A modern, responsive portfolio website showcasing Sanjana Singh's skills, experi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sanjana-portfolio.git
+   git clone https://github.com/kuntalgaurav2001/sanjana-portfolio.git
    cd sanjana-portfolio
    ```
 
@@ -111,22 +111,22 @@ A modern, responsive portfolio website showcasing Sanjana Singh's skills, experi
 ## 📸 Sample Images
 
 ### Profile Picture
-![Profile Picture](portfolio/assets/img/snj.jpeg)
+![Profile Picture](assets/img/snj.jpeg)
 
 ### Experience Logos
-![Victora Lifts Logo](portfolio/assets/img/victoralogo.jpeg)
-![Dabotics Logo](portfolio/assets/img/exp-meditab-logo-500x500.jpg)
+![Victora Lifts Logo](assets/img/victoralogo.jpeg)
+![Dabotics Logo](assets/img/exp-meditab-logo-500x500.jpg)
 
 ### Project Images
-![Heart Stroke Prediction](portfolio/assets/img/project-ai-1.jpg)
-![Food Delivery App](portfolio/assets/img/food_delivery.jpeg)
-![Portfolio Website](portfolio/assets/img/portfolio_sample.png)
+![Heart Stroke Prediction](assets/img/project-ai-1.jpg)
+![Food Delivery App](assets/img/food_delivery.jpeg)
+![Portfolio Website](assets/img/portfolio_sample.png)
 
 ### Skills & Technologies
-![Python](portfolio/assets/img/python-logo-1-300x300.jpg)
-![Django](portfolio/assets/img/django-logo.webp)
-![React](portfolio/assets/img/javascript.png)
-![Machine Learning](portfolio/assets/img/tensorflow-logo-1.png)
+![Python](assets/img/python-logo-1-300x300.jpg)
+![Django](assets/img/django-logo.webp)
+![React](assets/img/javascript.png)
+![Machine Learning](assets/img/tensorflow-logo-1.png)
 
 ## 🔧 Configuration
 
@@ -186,26 +186,24 @@ The portfolio is fully responsive and optimized for:
 ## 📁 Project Structure
 
 ```
-sanjana_portfolio/
-├── portfolio/
-│   ├── assets/
-│   │   ├── css/
-│   │   │   └── style.css
-│   │   ├── img/
-│   │   │   ├── snj.jpeg (Profile Picture)
-│   │   │   ├── victoralogo.jpeg (Company Logo)
-│   │   │   ├── food_delivery.jpeg (Project Image)
-│   │   │   ├── portfolio_sample.png (Portfolio Preview)
-│   │   │   └── ... (Other Images)
-│   │   ├── resume/
-│   │   │   └── sanjana_S_resume.pdf
-│   │   └── vendor/
-│   │       └── typed.js/
-│   ├── index.html
-│   ├── LICENSE
-│   └── robots.txt
-├── README.md
-└── .DS_Store
+sanjana-portfolio/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── img/
+│   │   ├── snj.jpeg (Profile Picture)
+│   │   ├── victoralogo.jpeg (Company Logo)
+│   │   ├── food_delivery.jpeg (Project Image)
+│   │   ├── portfolio_sample.png (Portfolio Preview)
+│   │   └── ... (Other Images)
+│   ├── resume/
+│   │   └── sanjana_S_resume.pdf
+│   └── vendor/
+│       └── typed.js/
+├── index.html
+├── LICENSE
+├── robots.txt
+└── README.md
 ```
 
 ## 🌟 Key Features
@@ -286,7 +284,7 @@ The contact form includes:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](portfolio/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👩‍💻 About the Developer
 
@@ -317,6 +315,6 @@ This project is licensed under the MIT License - see the [LICENSE](portfolio/LIC
 
 **⭐ Star this repository if you find it helpful!**
 
-**🔗 Live Demo**: [Portfolio Website](https://your-portfolio-url.com)
+**🔗 Live Demo**: [Portfolio Website](https://kuntalgaurav2001.github.io/sanjana-portfolio)
 
 **📧 Questions?** Feel free to reach out via the contact form or email!
